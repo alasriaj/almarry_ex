@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703000363336",
+    "project_id": "almarry-borsa",
+    "storage_bucket": "almarry-borsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703000363336:android:efc8023b7bf71ecb72337d",
+        "android_client_info": {
+          "package_name": "com.almarry.almarry_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703000363336-jbick59tvlcvb86u5k66rmsfe9icti1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5sZORhxUOVVgTgb6faEkuGzY8M52Gck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703000363336-jbick59tvlcvb86u5k66rmsfe9icti1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
